@@ -6,3 +6,12 @@ Repositorio para a pratica de Git e Github
 ```bash
 git clone <url_repositorio_remoto>
 ``` 
+2. Preparando os arquivos para commit
+
+```bash
+git add <arquivo> <arquivo> ... <arquivo>
+```
+OU
+```bash
+git add . 
+```
